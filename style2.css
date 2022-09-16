@@ -1,0 +1,24 @@
+body {
+padding-top: 143px;
+    text-align: center;
+    background-image: url(https://wallpapercave.com/wp/wp6879014.jpg);
+    background-position: center;
+    background-position-y: -183px;
+    transition: background-image 2s;
+    
+   
+ 
+font-size: 33px;
+    color: whitesmoke;
+   
+}
+
+h1 {
+    color: white;
+    text-shadow: 2px 2px 3px black ;
+    
+}
+
+#caixa {
+    text-shadow:2px 2px 3px black ;
+}
